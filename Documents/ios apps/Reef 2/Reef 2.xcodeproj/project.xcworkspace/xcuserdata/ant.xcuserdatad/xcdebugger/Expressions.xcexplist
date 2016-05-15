@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SearchViewController tableView:cellForRowAtIndexPath:]:SearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_arrResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__33-[PostViewController actionPost:]_block_invoke210:PostViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchViewController getUsersList]:SearchViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__37-[FeedViewController getArticlesList]_block_invoke:FeedViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_arrData">
+            </PersistentString>
+            <PersistentString
+               value = "[GlobalPool sharedObject].posted_photos">
+            </PersistentString>
+            <PersistentString
+               value = "responseObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FeedViewController sendPushMessage:]:FeedViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalPool sharedObject].m_strDeviceToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DBCameraViewController captureImageDidFinish:withMetadata:]:DBCameraViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchUserCell actionFollow:]:SearchUserCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.m_bUserMode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__42-[CommunityViewController getArticlesList]_block_invoke:CommunityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__36-[SearchViewController getUsersList]_block_invoke:SearchViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchViewController tableView:numberOfRowsInSection:]:SearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.m_arrFilterdContacts">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FeedViewController tableView:cellForRowAtIndexPath:]:FeedViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchViewController getContactsFromAddressBook]:SearchViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
